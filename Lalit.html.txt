@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  
+    <head>
+        <style>
+        h1 {
+            font-size: 36px;
+            color: #ff6f61;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #ff6f61;
+            text-align: center;
+        }
+    </style>
+<h1>Happy Birthday Lala!</h1>
+<h2>Sept 21st in 21st century </h2>
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg" alt="A birthday-cake">
+    </head>
+    <body>
+
+        <style>
+            body {
+                background-color: white;
+            }
+        </style>
+
+    <style>
+        p {
+            font-size: 24px;
+            color: crimson;
+        }
+    </style>
+<p>Today iam saying happybirthday but i wish u stay happy Every day!</p>
+<style>
+    h3 {
+        font-size: 20px;
+        color:blueviolet;
+    }
+</style>
+<h3>DO's</h3>
+<style>
+    ol {
+        font-size: 20px;
+        color: coral;
+    }
+</style>
+<ol>
+    <li>Stay Happy</li>
+    <li>Sleep well</li>
+    <li>Make good friends</li>
+    <li>Eat well</li>
+    <li>Tease everyone regularly</li>
+    <li>Become successful!</li>
+
+</ol>
+
+<h3>DONT'S</h3>
+<ol>
+<li>Sleeping Late</li>
+<li>Eating less </li>
+<li>Forgetting me</li>
+</ol>
+<h3>Conclusion</h3>
+<p>Ik this is a basic looking website,Ill make a good one for your next birthday!</p>
+<p>Until then keep Growing.......</p>
+<img src="Lakaushal.jpg" alt="Lalit and Kaushal">
+    </body>
+</html>
